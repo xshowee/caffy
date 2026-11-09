@@ -6,6 +6,26 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Caffy</title>
         <item>
+            <title>1.0.5</title>
+            <pubDate>Mon, 09 Nov 2026 22:14:41 +0800</pubDate>
+            <link>https://github.com/xshowee/caffy</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/xshowee/caffy/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## What's new
+
+- **8-hour duration.** Keep Awake can now run for 8 hours, in addition to 30 minutes, 1, 2 and 4 hours, or no limit.
+
+---
+
+## 新功能
+
+- **8 小时时长。** 开启时长新增 8 小时，另有 30 分钟、1 / 2 / 4 小时和不限时可选。
+]]></description>
+            <enclosure url="https://github.com/xshowee/caffy/releases/download/v1.0.5/Caffy-1.0.5.dmg" length="1959516" type="application/octet-stream" sparkle:edSignature="k3hcZPAGpt2tW4t0fdna6++vKSEWA/imtK+eMA2M1N0LVnnAM5PfNDCZT4/rAHe37Ibs4TDEb+IWRjomV2mHAQ=="/>
+        </item>
+        <item>
             <title>1.0.4</title>
             <pubDate>Mon, 05 Oct 2026 23:51:57 +0800</pubDate>
             <link>https://github.com/xshowee/caffy</link>
@@ -48,6 +68,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: FLJsDZYFxJCrBhVl7v7SaMGqFk/68oIiUlkxRsOQ58xs1oHQ+J8pLK1v0J45YUYO5ayDJYoJrDhv99h8OaigDA==
-length: 3221
+edSignature: bzEqv6JOrdEKfvjsEx6/T0+6hIXFeuSRkE++2Ste2wScPVgv6aVKxGigKhtkqVrm6CrYdszMUqCCbwjgNv5vCQ==
+length: 4329
 -->
