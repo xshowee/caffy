@@ -27,7 +27,8 @@ enum DeactivationReason {
 final class AppState: ObservableObject {
     static let durationChoices: [(minutes: Int, title: String)] = [
         (30, String(localized: "30 Minutes")), (60, String(localized: "1 Hour")),
-        (120, String(localized: "2 Hours")), (240, String(localized: "4 Hours")), (0, String(localized: "No Limit")),
+        (120, String(localized: "2 Hours")), (240, String(localized: "4 Hours")),
+        (480, String(localized: "8 Hours")), (0, String(localized: "No Limit")),
     ]
     static let batteryThresholdChoices = [10, 20, 30, 50]
 

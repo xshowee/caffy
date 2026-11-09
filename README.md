@@ -24,7 +24,7 @@ Menu options:
 
 | Option | Description |
 |---|---|
-| Duration | 30 minutes / 1 / 2 / 4 hours / no limit. Sleep is restored automatically when time is up. Changes take effect immediately, counted from when Caffy was turned on. |
+| Duration | 30 minutes / 1 / 2 / 4 / 8 hours / no limit. Sleep is restored automatically when time is up. Changes take effect immediately, counted from when Caffy was turned on. |
 | Restore Sleep When Overheated | Restore sleep when the Mac gets too hot. On by default. |
 | Restore Sleep on Low Battery | Restore sleep when running on battery below the threshold (10 / 20 / 30 / 50 %). On by default, 20 %. |
 | Run While Awake | Run a command of your choice while Keep Awake is on, such as a tunnel for remote access. See [Run While Awake](#run-while-awake). |
